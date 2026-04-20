@@ -1,1 +1,8 @@
 **.pyc
+workspace/.env
+workspace/tagger_cache/
+workspace/outputs/
+workspace/my_images/
+workspace/rvlcdip_cache/
+workspace/outputs_rvlcdip/
+workspace/docvqa_cache/
